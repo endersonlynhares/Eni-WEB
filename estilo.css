@@ -1,0 +1,34 @@
+*{
+    font-family: 'Nunito' !important;
+}
+
+
+
+div.jumbotron{
+    background-image:url("image-26.jpg") ;
+    background-attachment: fixed;
+    background-size: cover;
+    height:100vh;
+}
+
+div.m a{
+    margin-bottom: 170px;
+}
+
+
+
+/*Models box - TOPS*/
+
+.model-box{
+    color: black;
+    text-align: center;
+}
+
+.caixa .container{
+    padding: 12px;
+    border-bottom: 3px solid #f1f1f1;
+}
+
+#contact{
+    font-family: 'Nunito' !important;
+}
