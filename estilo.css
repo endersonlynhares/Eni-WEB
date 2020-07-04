@@ -32,3 +32,48 @@ div.m a{
 #contact{
     font-family: 'Nunito' !important;
 }
+
+/*BREAKPOINTS*/
+
+@media (max-width: 576px) { 
+    .carousel-item h1{
+        font-size:27px;
+    }
+
+    .carousel-item p{
+        font-size:18px;
+    }
+
+    .carousel-inner{
+        box-sizing: border-box;
+    }
+
+    p#email{
+        font-size: 1.18rem;
+    }
+ }
+
+
+@media (min-width: 576.1px ) and (max-width: 892px){ 
+    .carousel-item h1{
+        font-size:48px;
+    }
+
+    .carousel-item p{
+        font-size:18px;
+    }
+
+    .carousel-inner{
+        box-sizing: border-box;
+    }
+ }
+
+
+@media (min-width: 892px) {
+    
+ }
+
+
+@media (min-width: 1200px) { 
+
+ }
